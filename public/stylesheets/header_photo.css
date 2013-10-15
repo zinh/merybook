@@ -1,0 +1,514 @@
+header .logo {
+  top: 21px;
+  margin-left: -67px;
+  display: block;
+}
+
+
+header nav .navleft .navleft-wrapper {
+  margin-right: 87px;
+}
+
+header nav .navright .navright-wrapper {
+  margin-left: 87px;
+}
+
+header {
+  border-top-color:#E86A4D;
+}
+
+header .menu .bgmenu {
+  background: #E86A4D;
+}
+
+header nav a,header nav h3,header nav span {
+  color: #575757;
+}
+
+.whitecolor h3,.whitecolor span {
+  color:  #FFFFFF;
+}
+
+header .submenu {
+  background: #181818;
+  border-top: 1px solid #BBBBBB;
+  border-bottom: 1px solid #BBBBBB;
+}
+
+header nav .submenu>li>a {
+  border-left: 1px solid #BBBBBB;
+}
+
+header nav .submenu > li:last-child > a {
+  border-right: 1px solid #BBBBBB;
+}
+
+header nav .submenu>li:hover {
+  background: #FFFFFF;
+}
+
+header nav .submenu h3 {
+  color: #FFFFFF;
+}
+
+header nav .submenu li:hover>a>h3 {
+  color: #000000;
+}
+
+
+
+
+header nav .submenu>li>a {
+  color: #BBBBBB;
+}
+
+header {
+  background-image: url("../img/pattern22.png");
+}
+
+
+footer {
+  background-image: url("../img/newfooter.png");
+}
+
+footer nav.foot-right li, footer nav.foot-left li {
+  border-left: 1px solid #EBEBEB;
+    border-right: 1px solid #FFFFFF;
+}
+
+footer nav li .text-social {
+  color: #000000;
+}
+
+
+body {
+  background-color: #FAFAFA;
+}
+
+
+
+/** curtain  **/
+
+.curtainbg {
+  background-color : #EFEEEF;
+}
+
+
+/*** font ***/
+
+#jegbgcontainer .texthome .texthome-wrapper h2,
+#jegbgcontainer .texthome .texthome-wrapper h1,
+#homepita .torapper,
+#jegbgcontainer .homeblock .homelink a,
+.item-detail .item-description .item-desc-wrapper h2,
+#contact_block h1,
+#contact_block h2,
+header nav h3
+{
+   font-family : "PT Sans Narrow"; font-style : normal; font-weight : bold;}
+
+
+body,p,input,button,select,textarea,.btn ,
+#jeglio .item .item-wrapper .desc-holder h3,
+h1.page-title,
+h2.project-title ,
+.portfolio-gallery .desc-holder h3,
+.portfolio-gallery .desc-holder h4,
+.blogtitle h2,
+.no-caps,
+.sidebar h3 ,
+table th ,
+div.ps-caption-content,
+.footercopy
+{
+   font-family : "PT Sans Narrow"; font-style : normal; font-weight : normal;}
+
+#jegbgcontainer .texthome .texthome-wrapper h1,
+#jegbgcontainer .texthome .texthome-wrapper h2 {
+   font-family : "PT Sans Narrow"; font-style : normal; font-weight : bold;}
+
+blockquote,
+.testibox author,
+.testitext,
+.testiwrapper p ,
+.teamlist .job-title ,
+#liofilter ,
+#jeglio .item .italic,
+#item-theater .italic ,
+.gallery-navigator,
+.comment-date,
+#contact_block  #contactform .contact_error ,
+.notification .notification-content,
+footer nav li .text-social,
+header nav span,
+.mpnotif,
+#jeglio .item .item-wrapper .desc-holder h4,
+#jeglio .item .item-wrapper .desc-holder h4 a,
+#jeglio .item .item-wrapper .desc-holder h4 a:visited,
+.load-more-button
+{
+   font-family : "Overlock"; font-style : italic; font-weight : normal;}
+
+/** front slider header **/
+#homepita,
+#homepita .homeinfo,
+#jegbgcontainer .homeblock {
+  background-color: rgba(125,125,125, 0.3);
+}
+
+#homepita .triangle-border  {
+  border-color: transparent rgba(125,125,125, 0.3) transparent transparent;
+}
+
+#homepita .homeinfo .homeflagwrapper {
+  background-color: #FFFFFF;
+}
+
+
+
+/** front slider **/
+#homepita.hptoogle .torapper {
+  background-color: #181818;
+  border: 1px solid #181818;
+  color : #FFFFFF;
+}
+
+#homepita.hptoogle .triangle {
+  border-color: transparent #181818 transparent transparent;
+}
+
+#jegbgcontainer .homeblock .homelink {
+  background-color: #181818;
+}
+
+#jegbgcontainer .homeblock .homelink a {
+  color : #FFFFFF;
+}
+
+#jegbgcontainer .homeblock .homeblockinside {
+  background: #FFFFFF;
+}
+
+#jegbgcontainer .homeblock .homeblockinside p {
+  color : #222222;
+}
+
+
+
+/** portfolio filter **/
+
+#liofilter>span {
+  border-color: #DDDDDD;
+  background-color: #F8F8F8;
+}
+
+#liofilter li {
+  color : #222222;
+}
+
+#liofilter li:hover,#liofilter .filter-select {
+  background-color: #E86A4D;
+  color: #FFFFFF;
+}
+
+/** portfolio item **/
+#jeglio .item,
+#jeglio .item .shadow,
+#jeglio .item .shadowload,
+.item-detail,
+.item-detail .item-description  {
+  background-color: #FFFFFF;
+}
+
+
+#jeglio .item .item-wrapper .desc-holder h3,
+.item-detail .item-description .item-desc-wrapper h2 {
+  color: #464646;
+  line-height: 140%;
+}
+
+#jeglio .item .item-wrapper .desc-holder h4,
+#jeglio .item .item-wrapper .desc-holder h4 a,
+#jeglio .item .item-wrapper .desc-holder h4 a:visited,
+.item-detail .item-description .item-desc-wrapper span {
+  color: #969595;
+}
+
+.item-detail .item-description .item-desc-wrapper p {
+  color: #7A7A7A;
+}
+
+
+/** loader **/
+
+
+
+.curtain-loader, .lio-loader , .gallery-main, #jeg-loader {
+  background-color: #FFFFFF;
+}
+
+/** portfolio navigation **/
+
+.item-navigator .item-prev, .item-navigator .item-next {
+  background-color: #FAFAFA;
+}
+
+.item-navigator .item-prev:hover,.item-navigator .item-next:hover {
+  background-color: #181818;
+}
+
+.item-navigator {
+  border-top: 1px solid #DEDEDE;
+}
+
+
+
+
+/** blog outer container **/
+
+  .containerborder {
+    background-color: rgba(125,125,125, 0.1);
+    border: 1px solid rgba(125,125,125, 0.3);
+  }
+
+/** blog header **/
+
+
+.blogtitle h2 a,
+.sidebar h3 {
+  color : #7A7A7A;
+}
+
+.blogentry .blog-img {
+  border-bottom: 1px solid rgba(195,195,195, 1);
+}
+
+.headingwithimage h2, .headingwithimage h1  {
+  background-color: rgba(0,0,0, 0.4);
+}
+
+.headingwithimage h2 a , .headingwithimage h1{
+  color :  #FFFFFF;
+}
+
+/** blog inner container **/
+
+  .inner-container {
+    border: 1px solid rgba(125,125,125, 0.5);
+    background-color: #FFFFFF;
+  }
+
+
+
+
+/** header meta **/
+.blog-meta a {
+  color: #222222;
+}
+
+.blog-meta a:hover{
+  color: #DE3917;
+}
+
+.portfolio-meta {
+  color: #222222;
+  border-bottom : 1px solid #DDDDDD;
+  background: #FFFFFF;
+}
+
+.portfolio-meta li {
+  border-right: 1px solid #DDDDDD;
+}
+
+/** blog content **/
+.blog-container p,
+.blog-container h1, .blog-container h2, .blog-container h3,
+.blog-container h4, .blog-container h5, .blog-container h6,
+.sidebar li ,
+#searchform input[type="text"] {
+  color: #484848;
+}
+.blog-container a {
+  color: #DE3917;
+}
+
+/** blog bottom bar **/
+.blogentry .bottom-bar {
+  border-top: 1px solid #DDDDDD;
+  background: #FCFCFC;
+}
+
+.blog-like li {
+  border-left: 1px solid #DDDDDD;
+}
+
+/** blog comment **/
+.comment-container {
+  background: #FCFCFC;
+}
+
+.comment-container h1, .comment-container h2, .comment-container h3,
+.comment-container h4, .comment-container h5, .comment-container h6,
+.comment-container label {
+  color: #484848;
+}
+
+/** sidebar **/
+.sidebar li:hover {
+  background-color: #F5F5F5;
+}
+
+.sidebar li a {
+  color: #484848;
+}
+
+
+
+
+/** blog tag **/
+.postag a , .tagcloud a {
+  background-color : #999999;
+  color: #FFFFFF;
+}
+
+/** contact us flag **/
+#contact_block .locationflag,
+#contact_block .contactflag,
+/** ini untuk contact head **/
+#contact_block .contact_form,
+#contact_block .contact_location {
+  background: rgba(125,125,125, 0.3);
+}
+#contact_block .locationflag .locationflagwrapper,
+#contact_block .contactflag .contactflagwrapper {
+  background-color : #FFFFFF;
+}
+
+
+
+/** contact us head **/
+#contact_block .contact_location_inner h1 ,
+#contact_block .contact_form_inner h1,
+.infowindow-wrapper h2 {
+  background-color : #181818;
+  color: #FFFFFF;
+}
+
+
+
+
+/** contact us body **/
+#contact_block .contact_location_inner,
+#contact_block .contact_form .contact_form_inner,
+.infowindow-wrapper {
+  background: #FFFFFF;
+  color : #222222;
+}
+
+#contact_block .contact_location .locationlist .locdetail h2,
+#contact_block .contact_content h2 {
+  color : #222222;
+}
+
+#contact_block .contact_form .contact_form_inner label {
+  color : #222222;
+}
+
+#contact_block .contact_form_inner .contact_content .contact_left{
+  border-right: 1px dotted #C9C9C9;
+}
+
+#contact_block .contact_location .locationlist .locdetail li > div,
+#contact_block .contact_content li > div,
+.infowindow-wrapper li > div {
+  border-top: 1px dotted #C9C9C9;
+}
+
+#contact_block .contact_location .locationlist .locdetail:hover {
+  border-top : 1px solid #C9C9C9;
+}
+
+#contact_block .contact_location .locationlist .locdetail {
+  border-bottom: 1px solid #C9C9C9;
+}
+
+.view-map {
+  border-bottom: 1px dotted #C9C9C9;
+}
+
+
+
+/** contact location hovered **/
+#contact_block .contact_location .locationlist .locdetail:hover {
+  background: #181818;
+  color: #FFFFFF;
+}
+
+#contact_block .contact_location .locationlist .locdetail:hover h2 {
+  color: #FFFFFF;
+}
+
+
+
+/** new style **/
+
+
+
+
+/** long menu **/
+
+@media ( max-width :979px) and (min-width:768px) {
+  header {
+    background-position: 0 -15px;
+    height: 135px;
+  }
+
+  header nav span {
+    display: none;
+  }
+
+  header .menu > li {
+    min-width: inherit;
+  }
+
+  header nav .navright .navright-wrapper ,
+  header nav .navleft .navleft-wrapper  {
+    margin-left : 0px !important;
+    margin-right : 0px !important;
+  }
+
+  header nav {
+    margin-top: 85px;
+    position: relative;
+  }
+
+  header nav a {
+    height: 30px;
+    padding: 12px 20px 0;
+  }
+
+  header nav .navleft .menu > li ,
+  header nav .navright .menu > li {
+    background-image: none;
+  }
+
+
+
+
+      header nav {
+      border-top: 1px solid #eee;
+        text-align: center;
+    }
+  }
+
+
+
+@media (max-width:768px) {
+  header div.logo {
+    left : 50%;
+    margin-left: -67px;
+  }
+}
+
+
+/** additional css **/
